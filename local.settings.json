@@ -1,0 +1,10 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "OidcApiAuthSettings:Audience": "bcc7d959-3458-4197-a109-26e64938a435",
+        "OidcApiAuthSettings:MetadataAddress": "https://davecob2cc.b2clogin.com/davecob2cc.onmicrosoft.com/B2C_1_signupsignin/v2.0/.well-known/openid-configuration/",
+        "OidcApiAuthSettings:IssuerUrl": "https://davecob2cc.b2clogin.com/bb004e21-4790-4d49-a03a-374a05ef0fd3/v2.0/"
+    }
+}
